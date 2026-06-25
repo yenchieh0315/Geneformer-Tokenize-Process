@@ -37,3 +37,11 @@ Rank & Tokenization
 如果基因序列長度超過上限 (4,096)，將剩餘表現量不足的基因刪除
 
 再頭尾加入特殊符號 cls & eos，完成最終的 **Rank value Emcoding**
+
+Reference
+---
+[Geneformer](https://www.nature.com/articles/s41586-023-06139-9)
+
+[Source code](https://huggingface.co/ctheodoris/Geneformer)
+
+[Genecorpus-104M](https://huggingface.co/datasets/theodoris-lab/Genecorpus-104M)
